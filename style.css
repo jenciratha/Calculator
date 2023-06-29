@@ -1,0 +1,47 @@
+
+
+.title{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 1500px;
+    font-size: 35px;
+    color:rgb(32, 19, 19);
+    margin-top: 300px;
+    margin: 10px;
+    
+}
+input[type="button"]{
+    background-color: rgb(73, 65, 65);
+    color: white;
+    border: solid rgb(70, 50, 50) 2px;
+    width: 150px;
+    height: 90px;
+    font-size: 30px;
+}
+input[type="text"]{
+    background-color: white;
+    border: solid rgb(68, 63, 63) 2px;
+    width: 500px;
+    height: 85px;
+    font-size: 30px;
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px
+   
+}
+
+tr{
+    width: 500px;
+    height: 50px;
+}
+td{
+    width: 50px;
+}
+body{
+    background-color: rgb(212, 201, 201);
+}
